@@ -1,0 +1,33 @@
+#surefire
+#Mon Mar 26 23:36:02 JST 2018
+testClassesDirectory=C\:\\Users\\kent\\Google \u30C9\u30E9\u30A4\u30D6\\eclipse-workspace\\Company\\target\\test-classes
+classPathUrl.4=C\:\\Users\\kent\\.m2\\repository\\commons-codec\\commons-codec\\1.10\\commons-codec-1.10.jar
+classPathUrl.3=C\:\\Users\\kent\\.m2\\repository\\org\\apache\\poi\\poi\\3.17\\poi-3.17.jar
+classPathUrl.2=C\:\\Users\\kent\\.m2\\repository\\org\\xerial\\sqlite-jdbc\\3.20.1\\sqlite-jdbc-3.20.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\kent\\Google \u30C9\u30E9\u30A4\u30D6\\eclipse-workspace\\Company\\target\\classes
+reportsDirectory=C\:\\Users\\kent\\Google \u30C9\u30E9\u30A4\u30D6\\eclipse-workspace\\Company\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\kent\\Google \u30C9\u30E9\u30A4\u30D6\\eclipse-workspace\\Company\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\kent\\Google \u30C9\u30E9\u30A4\u30D6\\eclipse-workspace\\Company\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\kent\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\kent\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.12.4\\surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=sample.WindowTest
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+runStatisticsFile=C\:\\Users\\kent\\Google \u30C9\u30E9\u30A4\u30D6\\eclipse-workspace\\Company\\.surefire-B351D1B9568875D7C9DC4876444220BDB08D0DF8
+includes0=**/Test*.java
+classPathUrl.11=C\:\\Users\\kent\\.m2\\repository\\log4j\\log4j\\1.2.17\\log4j-1.2.17.jar
+classPathUrl.10=C\:\\Users\\kent\\.m2\\repository\\com\\github\\virtuald\\curvesapi\\1.04\\curvesapi-1.04.jar
+classPathUrl.9=C\:\\Users\\kent\\.m2\\repository\\stax\\stax-api\\1.0.1\\stax-api-1.0.1.jar
+classPathUrl.8=C\:\\Users\\kent\\.m2\\repository\\org\\apache\\xmlbeans\\xmlbeans\\2.6.0\\xmlbeans-2.6.0.jar
+classPathUrl.7=C\:\\Users\\kent\\.m2\\repository\\org\\apache\\poi\\poi-ooxml-schemas\\3.17\\poi-ooxml-schemas-3.17.jar
+childDelegation=false
+classPathUrl.6=C\:\\Users\\kent\\.m2\\repository\\org\\apache\\poi\\poi-ooxml\\3.17\\poi-ooxml-3.17.jar
+classPathUrl.5=C\:\\Users\\kent\\.m2\\repository\\org\\apache\\commons\\commons-collections4\\4.1\\commons-collections4-4.1.jar
